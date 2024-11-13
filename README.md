@@ -22,7 +22,7 @@ To set up and run this project locally:
 1. **Installation**:
     1. Clone the repository.
         ```bash
-        git clone https://github.com/your-username/color-palette-generator.git
+        git clone https://github.com/mbprasadd/Color-Palette-Generator.git
         cd color-palette-generator
     2. Install dependencies: `npm install`
     3. Start the application: `npm start`
